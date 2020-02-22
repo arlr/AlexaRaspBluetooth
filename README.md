@@ -1,5 +1,5 @@
 # AlexaRaspBluetooth
-Utiliser Amazon Alexa pour intéragir avec des appareil connecté en bleutooth à une Raspberry PI
+Utiliser Amazon Alexa pour intéragir avec des appareils connectés en bleutooth à une Raspberry PI
 
 
 Installer : 
